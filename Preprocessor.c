@@ -15,7 +15,7 @@
 int main()
 {
   int No = DOZEN;
-  printf("Jay Ganesh...");
+  printf("Jay Ganesh...\n");
   printf("Value of No is %d\n",No);
   
   return 0;
