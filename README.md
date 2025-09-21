@@ -1,5 +1,5 @@
 # TOOLCHAIN_OF_C_C++_PROGRAMMING
-Program execution in C and C++ with its TOOLCHAIN step by step execution from human understandable code to machine understandable code that is in the binary code...
+Program execution in C and C++ with its TOOLCHAIN step by step execution from human understandable code to machine understandable code that is in the binary code.
 
 Compilation Steps -<br>
 
